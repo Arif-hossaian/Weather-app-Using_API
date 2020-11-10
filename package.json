@@ -1,0 +1,14 @@
+{
+  "name": "dynamic-weather--app",
+  "version": "1.0.0",
+  "description": "creating a noedejs weather side",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arif_hossaian",
+  "license": "ISC",
+  "dependencies": {
+    "requests": "^0.3.0"
+  }
+}
